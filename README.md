@@ -7,10 +7,13 @@ DOI: in Review
 ## Content
 
 **Use Case Input**
+Input data to the generic uses cases used for LMAS assessment. Please consider the short description in : PDF
 
-**Ontology**
+**Model Validation and Model Comparison Results**
+All results of the Model Validation and Model Comparison results (PDF)
 
-**Dog Use-Case**
+**Algorithms**
+Pseudo-Code for algorithms for the Extended Mean Value Analysis used in the paper. 
 
 ## Contact:
 If you have any questions or remarks, feel free to contact the correponding author.
