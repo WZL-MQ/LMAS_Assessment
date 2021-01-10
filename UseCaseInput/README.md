@@ -22,8 +22,8 @@ The use case considers eight different product types and 15 processes. Assuming 
 
 ## Structure of Input Information
 
-Matrix D: distanceBetweenStations.csv
-Matrix T(P,PC):jobOperationMatrix.csv
-Vector f(P): productionProgram.csv
-Matrix R(R,SC):resourceStation.csv
-Matrix C(SC,PC):stationOperationMatrix.csv
+* Matrix D: distanceBetweenStations.csv
+* Matrix T(P,PC):jobOperationMatrix.csv
+* Vector f(P): productionProgram.csv
+* Matrix R(R,SC):resourceStation.csv
+* Matrix C(SC,PC):stationOperationMatrix.csv
