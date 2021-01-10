@@ -1,8 +1,12 @@
-# LMAS Assessment
+# LMAS Assessment Use Case Data and Results
 
-Git project for CIRP Annals Paper "A priori performance assessment of line-less mobile assembly systems" by R.H. Shcmitt, G. Hüttemann and S. Münker
-DOI: in Review
+Git project for CIRP Annals Paper "A priori performance assessment of line-less mobile assembly systems" 
 
+Authors R.H. Schmitt, G. Hüttemann and S. Münker
+
+DOI: in review
+
+Cite as: in review
 
 ## Content
 
