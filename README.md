@@ -3,6 +3,7 @@
 git project for CIRP Annals Paper "A priori performance assessment of line-less mobile assembly systems" 
 
 Authors R.H. Schmitt, G. Hüttemann and S. Münker
+
 DOI: https://doi.org/10.1016/j.cirp.2021.04.059
 
 Cite as: Robert H. Schmitt, Guido Hüttemann, Sören Münker: A priori performance assessment of line-less mobile assembly systems. CIRP Annals,Volume 70, Issue 1,
